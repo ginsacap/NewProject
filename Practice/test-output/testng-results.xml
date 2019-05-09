@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81675" started-at="2019-05-09T21:55:30Z" finished-at="2019-05-09T21:56:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81675" started-at="2019-05-09T21:55:30Z" finished-at="2019-05-09T21:56:52Z">
+      <class name="com.ecom.qa.tests.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ecom.qa.tests.LoginPageTest@d56d67]" name="setup" is-config="true" duration-ms="47472" started-at="2019-05-09T17:55:30Z" finished-at="2019-05-09T17:56:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.ecom.qa.tests.LoginPageTest@d56d67]" name="loginTest" duration-ms="2203" started-at="2019-05-09T17:56:18Z" finished-at="2019-05-09T17:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecom.qa.tests.LoginPageTest@d56d67]" name="tearDown" is-config="true" duration-ms="1480" started-at="2019-05-09T17:56:20Z" finished-at="2019-05-09T17:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ecom.qa.tests.LoginPageTest@d56d67]" name="setup" is-config="true" duration-ms="14445" started-at="2019-05-09T17:56:22Z" finished-at="2019-05-09T17:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.ecom.qa.tests.LoginPageTest@d56d67]" name="loginPageTitleTest" duration-ms="53" started-at="2019-05-09T17:56:36Z" finished-at="2019-05-09T17:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecom.qa.tests.LoginPageTest@d56d67]" name="tearDown" is-config="true" duration-ms="4625" started-at="2019-05-09T17:56:36Z" finished-at="2019-05-09T17:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ecom.qa.tests.LoginPageTest@d56d67]" name="setup" is-config="true" duration-ms="8704" started-at="2019-05-09T17:56:41Z" finished-at="2019-05-09T17:56:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logoLoginPageTest()[pri:2, instance:com.ecom.qa.tests.LoginPageTest@d56d67]" name="logoLoginPageTest" duration-ms="212" started-at="2019-05-09T17:56:49Z" finished-at="2019-05-09T17:56:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoLoginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecom.qa.tests.LoginPageTest@d56d67]" name="tearDown" is-config="true" duration-ms="2319" started-at="2019-05-09T17:56:50Z" finished-at="2019-05-09T17:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecom.qa.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
